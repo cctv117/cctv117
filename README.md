@@ -1,29 +1,4 @@
-<!-- 呼吸灯效果 -->
-<div align="center" style="margin:30px 0">
-  <div style="
-    display:inline-block;
-    padding:15px 30px;
-    border-radius:25px;
-    background:linear-gradient(135deg, #667eea, #764ba2);
-    color:white;
-    font-weight:bold;
-    animation:breathing 2s ease-in-out infinite;
-    box-shadow:0 0 20px rgba(102,126,234,0.5);
-  ">
-    ✨ 动态开发者宣言 ✨
-  </div>
-</div>
-
-<!-- 旋转加载圈（技术栈轮播） -->
-<div align="center" style="position:relative;width:120px;height:120px;margin:0 auto">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/react.svg" width="30" style="position:absolute;top:0;left:50%;transform:translateX(-50%);animation:orbit 6s linear infinite" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vue-dot-js.svg" width="30" style="position:absolute;top:50%;right:0;transform:translateY(-50%);animation:orbit 6s linear infinite 1.5s" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/angular.svg" width="30" style="position:absolute;bottom:0;left:50%;transform:translateX(-50%);animation:orbit 6s linear infinite 3s" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/node-dot-js.svg" width="30" style="position:absolute;top:50%;left:0;transform:translateY(-50%);animation:orbit 6s linear infinite 4.5s" />
-  <div style="width:20px;height:20px;background:#00ffff;border-radius:50%;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)"></div>
-</div>
-
-<!-- 跳动的心形 -->
+<!跳动的心形 -->
 <div align="center" style="font-size:40px;margin:20px 0">
   <span style="color:#ff0000;animation:heartBeat 1s infinite">❤️</span>
   <span style="color:#ff6b6b;animation:heartBeat 1s infinite 0.2s">💙</span>
