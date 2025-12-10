@@ -1,19 +1,3 @@
-<!-- 彩虹渐变文字 -->
-<div align="center">
-  <h2 style="
-    background: linear-gradient(90deg, 
-      #ff0000, #ff9900, #ffff00, #00ff00, 
-      #00ffff, #0000ff, #9900ff, #ff00ff
-    );
-    background-size: 400% 100%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: rainbow 3s linear infinite;
-  ">
-    🎨 创意无限 · 代码有形
-  </h2>
-</div>
-
 <!-- 呼吸灯效果 -->
 <div align="center" style="margin:30px 0">
   <div style="
